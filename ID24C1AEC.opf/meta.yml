@@ -1,0 +1,36 @@
+id: ID24C1AEC
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T04:53:58.841167'
+last_modified: '2022-05-31T04:53:58.841180'
+parser: null
+source_metadata:
+  title: Khenpo Petse Rinpoche
+  language: en
+  description: 'Texts by the late Khenpo Pema Tsewang Lhundrup (mkhan po padma tshe
+    dbang lhun grub, 1931–2001), aka Khenpo Petse, of Dzogchen Monastery:'
+  volume:
+    f1ABB:
+      title: A Brief Autobiographical Sketch
+      base_file: f1ABB.txt
+      order: 1
+      parent: Autobiography
+    f555D:
+      title: Biography of Böpa Tulku Dongak Tenpé Nyima
+      base_file: f555D.txt
+      order: 2
+      parent: Biography
+    f79A1:
+      title: A Step-by-Step Meditation on the Definitive Meaning of the Great Middle
+        Way
+      base_file: f79A1.txt
+      order: 3
+      parent: Buddhist Philosophy
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
